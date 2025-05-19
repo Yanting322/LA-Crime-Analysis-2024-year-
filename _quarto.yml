@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  title: "Crime Summary"
+  navbar:
+    left:
+      - text: "Home"
+        file: Summary.ipynb 
+      
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    echo: false 
+
+
+
