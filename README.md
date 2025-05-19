@@ -5,7 +5,7 @@ To ensure data quality, we applied validation checks including row count verific
 
 The project includes one interactive widget to enhance user experience, embedded using Quarto Jupyter cell embedding.
 
-Finally, a clean Git commit history with meaningful messages is included, showing individual contributions and project evolution. You can find the Git graph and author metadata in the git_history directory or rendered below.
+Finally, a clean Git commit history with meaningful messages is included, showing individual contributions and project evolution. You can find the Git graph and author metadata in the Git_Graph.jpg or rendered below.
 
 ## Project summary
 
