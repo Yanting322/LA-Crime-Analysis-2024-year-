@@ -13,7 +13,7 @@ This project summary can be found:
 
 - as a website:
 
-https://moran-teaching.github.io/project-group/
+https://yanting322.github.io/LA-Crime-Analysis-2024-year-/
 
 ## Accessing data
 
